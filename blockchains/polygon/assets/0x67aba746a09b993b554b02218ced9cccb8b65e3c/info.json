@@ -1,0 +1,11 @@
+{
+  "name": "Roots of Gaia",
+  "symbol": "ROG",
+  "type": "ERC20",
+  "decimals": 18,
+  "description":   "A regenerative community token supporting Indigenous wisdom and ecological action."
+  "website": "https://rootsofgaiacollective.org",
+  "explorer": "https://polygonscan.com/token/0x67aBA746a09b993B554b02218Ced9CCcb8b65E3c",
+  "status": "active",
+  "id": "0x67aBA746a09b993B554b02218Ced9CCcb8b65E3c"
+}
